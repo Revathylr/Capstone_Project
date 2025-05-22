@@ -1,0 +1,6 @@
+UDI,Product ID,Type,Air temperature [K],Process temperature [K],Rotational speed [rpm],Torque [Nm],Tool wear [min],Target,Failure Type
+6253,L53432,L,300.8,310.3,1538,36.1,198,0,No Failure
+4685,M19544,M,303.6,311.8,1421,44.8,101,1,No Failure
+1732,M16591,M,298.3,307.9,1485,42.0,117,0,No Failure
+4743,L51922,L,303.3,311.3,1592,33.7,14,0,No Failure
+4522,L51701,L,302.4,310.4,1865,23.9,129,0,No Failure
