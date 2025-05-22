@@ -1,4 +1,4 @@
-# Capstone_Project
+# Capstone_Project_Predictive_maintenance
 PREDICTIVE MAINTENANCE OF MACHINES AND INDUSTRIAL EQUIPMENT
 The primary objective of this project is to develop a predictive maintenance system using machine learning techniques that can accurately anticipate potential failures or maintenance needs of industrial machinery.
 
