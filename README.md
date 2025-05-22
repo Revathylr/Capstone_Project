@@ -66,6 +66,20 @@ The best model and preprocessing pipeline are saved using joblib:
 joblib.dump(grid_search.best_estimator_, "logreg_pipeline.pkl")
 
 
+**Conclusion**
 
 
+In this project,developed a robust and interpretable machine learning pipeline using Logistic Regression to predict machine failure based on operational and sensor data.
+
+The pipeline incorporates comprehensive preprocessing for both numerical and categorical features, ensuring clean and consistent input for modeling. Using GridSearchCV, we explored various regularization techniques (l1 and l2), tuning hyperparameters such as C and max_iter.
+
+**The best-performing model** was selected based on cross-validation accuracy(0.99475) and then exported as a reusable .pkl file. This streamlined and modular approach makes the pipeline:
+
+Interpretable: Ideal for understanding which features impact predictions
+
+Consistent: All preprocessing steps are encapsulated in the pipeline
+
+Deployable: Ready for use in production environments for predictive maintenance
+
+Overall, this project demonstrates how a well-engineered pipeline can effectively support real-world maintenance strategies through predictive analytics.
 
